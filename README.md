@@ -1,4 +1,4 @@
-<img align="center" width="1731" height="1080" src="https://raw.githubusercontent.com/AM71113363/Dehumidifier-ESP32/master/info.png">
+<img align="center" width="1731" height="1080" src="https://raw.githubusercontent.com/AM71113363/Dehumidifier-ESP32/master/info.jpg">
 </p>
 # Dehumidifier-ESP32<br>
 ● ESP32<br>
